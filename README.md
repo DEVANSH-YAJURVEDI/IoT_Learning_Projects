@@ -37,5 +37,5 @@ Each project folder includes the following:
 # 🙌 Let's Connect
 
 Feel free to connect or follow me on:
-- 🔗 [LinkedIn](www.linkedin.com/in/devanshyajurvedi)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/devanshyajurvedi)
 - 💬 Reach out via GitHub issues or discussions
