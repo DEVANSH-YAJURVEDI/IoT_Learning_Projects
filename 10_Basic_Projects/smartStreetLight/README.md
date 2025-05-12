@@ -47,7 +47,8 @@ void loop() {
 
 
 Circuit Image
-![Circuit Diagram](smartStreetLight_circuit.jpg)
+![Circuit Diagram](./smartStreetLight_circuit.jpg)
+
 
 
 Note:
