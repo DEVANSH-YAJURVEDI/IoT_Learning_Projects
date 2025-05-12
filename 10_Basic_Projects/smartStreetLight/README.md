@@ -47,7 +47,8 @@ void loop() {
 
 
 Circuit Image
-You can view the circuit diagram in the file: smartStreetLight.jpg
+![Circuit Diagram](smartStreetLight_circuit.jpg)
+
 
 Note:
 This project was built and simulated on TinkerCAD. It's part of my learning journey in IoT and Arduino development.
