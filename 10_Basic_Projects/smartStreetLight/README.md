@@ -24,6 +24,7 @@ This is a basic IoT project using an Arduino, an LDR (Light Dependent Resistor),
 ---
 Circuit Image![Circuit Diagram](10_Basic_Projects/smartStreetLight/smartStreetLight_circuit.jpg)
 
+
 ##  Code Summary
 
 ```cpp
