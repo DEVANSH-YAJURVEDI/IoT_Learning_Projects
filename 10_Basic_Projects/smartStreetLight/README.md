@@ -22,7 +22,8 @@ This is a basic IoT project using an Arduino, an LDR (Light Dependent Resistor),
 - When the light falls below a certain threshold, the LED turns ON.
 
 ---
-
+Circuit Image
+![Circuit Diagram](10_Basic_Projects/smartStreetLight/smartStreetLight_circuit.jpg)
 ##  Code Summary
 
 ```cpp
@@ -46,8 +47,7 @@ void loop() {
 }
 
 
-Circuit Image
-![Circuit Diagram](10_Basic_Projects/smartStreetLight/smartStreetLight_circuit.jpg)
+
 
 
 
